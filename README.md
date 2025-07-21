@@ -1,4 +1,4 @@
-# Olá, eu sou o Fábio Gabriel Ivancheski Fagundes! 👋
+# Olá, eu sou o Fabio Gabriel Ivancheski Fagundes! 👋
 
 <br>
 
@@ -14,7 +14,7 @@ Tenho um foco especial em **Java** e **Spring Boot**, explorando desde a criaç�
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
@@ -54,7 +54,7 @@ Através dos meus projetos atuais, estou aprofundando meus conhecimentos em:
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-gabriel-ivancheski-fagundes-b635782a9/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fabiogifagundes@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiogifagundes@gmail.com)
 
 <!--
 **FabioFagundes01/FabioFagundes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
