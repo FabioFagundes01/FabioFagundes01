@@ -20,20 +20,27 @@ Tenho um foco especial em **Java** e **Spring Boot**, explorando desde a criaç�
 
 <br>
 
-### 🎯 Meus Principais Projetos
+### 💻 Meus Principais Projetos em Destaque
 
-| Projeto | Descrição |
-|---|---|
-| **[Futebol-API](URL_DO_SEU_REPOSITORIO)** | Uma API REST para gerenciar pagamentos de jogadores de futebol, construída com Java e Spring Boot. |
-| **[AviaoCIDADE](URL_DO_SEU_REPOSITORIO)** | Um jogo 2D simples onde o jogador controla um avião sobrevoando uma cidade. |
+Estes são os projetos nos quais estou trabalhando ativamente, aplicando e aprofundando meus conhecimentos.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **PZSMP - Sistema de Gestão** | Sistema completo para pizzarias e restaurantes, desenvolvido como projeto acadêmico. Inclui um backend robusto e um frontend reativo. | `Java`, `Spring Boot`, `Angular`, `TypeScript`, `JPA` |
+| **Bioeducap** | Software educacional desenvolvido para o projeto de extensão Viveiro Florestal UEPG/CAAR. | `TypeScript`, `Angular` |
+| **Futebol-API** | API REST para gerenciamento de pagamentos de jogadores de futebol. | `Java`, `Spring Boot`, `Spring MVC` |
 
 <br>
+➡️ **[Veja todos os meus repositórios aqui!](https://github.com/FabioFagundes01?tab=repositories)**
 
-### 🌱 O que estou aprendendo
+### 🌱 Habilidades e Conceitos em Foco
 
-* Arquitetura de Microsserviços
-* Testes Automatizados com JUnit 5 e Mockito
-* Docker e Contêineres para otimizar o deploy
+Através dos meus projetos atuais, estou aprofundando meus conhecimentos em:
+
+* **Desenvolvimento Full-Stack:** Conectando um frontend em **Angular** com uma API REST em **Spring Boot**.
+* **Arquitetura de Software:** Estruturando projetos acadêmicos complexos e aplicando padrões de projeto.
+* **Persistência de Dados com JPA:** Mapeamento objeto-relacional e otimização de consultas em bancos de dados.
+* **TypeScript:** Utilizando tipagem estática para criar aplicações frontend mais seguras e escaláveis.
 
 <br>
 
