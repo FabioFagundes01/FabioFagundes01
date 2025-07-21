@@ -31,7 +31,7 @@ Estes são os projetos nos quais estou trabalhando ativamente, aplicando e aprof
 | **Futebol-API** | API REST para gerenciamento de pagamentos de jogadores de futebol. | `Java`, `Spring Boot`, `Spring MVC` |
 
 <br>
-➡️ **[Veja todos os meus repositórios aqui!](https://github.com/FabioFagundes01?tab=repositories)**
+➡️ [Veja todos os meus repositórios aqui!](https://github.com/FabioFagundes01?tab=repositories)
 
 ### 🌱 Habilidades e Conceitos em Foco
 
