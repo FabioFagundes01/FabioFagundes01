@@ -1,6 +1,4 @@
-# Olá, eu sou o Fabio Gabriel Ivancheski Fagundes! 👋
 
-<br>
 
 ### 👨‍💻 Sobre mim
 
